@@ -1,6 +1,6 @@
 # EEA EthTrust Security Levels Implementation Registry
 
-This document serves as an index of tools and implementors that claim to support the EEA EthTrust Security Levels Specification.
+This document serves as an index of tools that have been tested and demonstrated to provide some support for testing the EEA EthTrust Security Levels Specification.
 
 ## Tools
 
