@@ -1,6 +1,6 @@
 # EEA EthTrust Security Levels Implementation Registry
 
-Welcome to the **EthTrust-checkers** repository! This repository serves as a collaborative, community-driven directory for tools that support the [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/).
+Welcome to the **EthTrust-tool-registry** repository! This repository serves as a collaborative, community-driven directory for tools that support the [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/).
 
 This registry is a work in progress, and it will eventually provide a useful resource for organizations looking to adopt the specification.
 
